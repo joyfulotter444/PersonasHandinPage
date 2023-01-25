@@ -1,0 +1,79 @@
+.odd{
+  background-color: #fffFFF;
+}
+
+.even{
+  background-color: #52AEC9;
+}
+
+.oddH{
+  color: #52AEC9
+}
+
+.evenH{
+  color: #202A44
+}
+
+.oddText{
+  color:#202A44
+}
+
+.evenText{
+  color:#FFFFFF
+}
+
+h1{
+  font-size: 5rem!important;
+  color: #fffFFF!important;
+}
+
+h2{
+  text-align: center;
+  font-size: 3rem!important;
+}
+
+h3{
+  text-align: center;
+}
+
+#navbarContainer{
+    height: 3rem;
+    background-color: #52AEC9;
+}
+
+body{
+  background-color: #52AEC9!important;
+}
+
+#navbar{
+    background-color: #52AEC9;
+}
+
+.nav-link{
+    color: #202A44!important;
+}
+.nav-link:hover {
+    color: #FFFFFF!important;
+  }
+
+.btn{
+    background-color: #066e7b!important;
+    border-color: #066E7B!important;
+}
+
+.btn:hover{
+    background-color:#202A44!important;
+    border-color: #202A44!important;
+}
+
+footer{
+  background-color: #202A44;
+  color: white;
+}
+
+body{
+    background-color: #52AEC9;
+}
+
+
+
